@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krish_yogee</h1>
 <h3 align="center">A passionate Content Creator, Frontend Developer, and Machine Learning enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/kXzBdkBf38HtvrEX6">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 🔭 I’m currently working on [Content Writing And Sentiment Analysis Project](https://github.com/krishyogee/Sentiment-Analysis-on-Youtube-Comments)
