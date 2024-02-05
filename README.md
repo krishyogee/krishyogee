@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krish_yogee</h1>
 <h3 align="center">A passionate Content Creator, Frontend Developer, and Machine Learning enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FC4D22AQFY2LKpfIIWVg%2Ffeedshare-shrink_2048_1536%2F0%2F1673026228828%3Fe%3D2147483647%26v%3Dbeta%26t%3D-HntsFkKhI4f1jM-cWQ9eJSdwoPMBCcidOoKNyyRFdw&tbnid=T0Q50xiVZ9cI1M&vet=12ahUKEwiYvb23_pOEAxWIZmwGHeNVC64QxiAoCnoECAAQKQ..i&imgrefurl=http%3A%2F%2Flink.curriculumnacional.cl%2Fhttp%3A%2Fnpics.homes%2Fsurfing-internet-gif.html&docid=PLtWRadHo79vBM&w=640&h=640&itg=1&q=coding%20gif&ved=2ahUKEwiYvb23_pOEAxWIZmwGHeNVC64QxiAoCnoECAAQKQ">
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/kXzBdkBf38HtvrEX6">
 
 
 - 🔭 I’m currently working on [Content Writing And Sentiment Analysis Project](https://github.com/krishyogee/Sentiment-Analysis-on-Youtube-Comments)
