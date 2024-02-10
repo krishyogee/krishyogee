@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Content Writing And Sentiment Analysis Project](https://github.com/krishyogee/Sentiment-Analysis-on-Youtube-Comments)
 
-- 🌱 I’m currently learning **Machine Learning, Creative Writing, Java & Data Science**
+- 🌱 I’m currently learning **Machine Learning, Creative Writing, SEO, Java & Data Science**
 
 - 📝 I regularly write articles on [https://medium.com/@krishyogee.pro](https://medium.com/@krishyogee.pro)
 
